@@ -1,4 +1,4 @@
- ## Hello/Bonjour👋🏻, I am Isaac
+ ## Hello! & Bonjour! 👋🏻, I am Isaac
  🧑🏻‍💻 I am currently studying my master of Computer Science degree at the University of Pennsylvania.<br>
  🎓 I’m an economics graduate from McGill University who developed a strong passion for software engineering after three years in finance. <br> 
  💪🏻 I am a highly motivated and self-disciplined individual who mastered French in a year. <br> 
