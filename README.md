@@ -4,7 +4,7 @@
  💪🏻 I am a highly motivated and self-disciplined individual who mastered French in a year. <br> 
  👍🏻 Always learning things from building
 
- I am actively preparing and looking for a SDE summer internship for 2027. <br> 
+ I am actively preparing and looking for a SDE internship for 2027 & 2028. <br> 
 
  I will continue to update my skillset below along my studies at the University of Pennsylvania.
 
