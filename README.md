@@ -1,12 +1,20 @@
- ## Hello! & Bonjour! 👋🏻, I am Isaac
- 🧑🏻‍💻 I am currently studying my master of Computer Science degree at the University of Pennsylvania.<br>
- 🎓 I’m an economics & statistics graduate from McGill University who developed a strong passion for software engineering after three years in finance. <br> 
- 💪🏻 I am a highly motivated and self-disciplined individual who mastered French in a year. <br> 
- 👍🏻 Always learning things from building
+## Hello, I'm Isaac 👋
 
- I am actively preparing and looking for a SDE internship for 2027 & 2028. <br> 
+I am a Master's student in Computer Science at the University of Pennsylvania, with a background in Economics, Statistics, and Finance.
 
- I will continue to update my skillset below along my studies at the University of Pennsylvania.
+After three years working in finance, I transitioned into software engineering because I enjoy building practical tools, solving technical problems, and continuously learning new technologies.
+
+I am currently preparing for **Software Engineering internship opportunities for 2027 and 2028**.
+
+---
+
+## About Me
+
+- 🎓 Master's student in Computer Science at the University of Pennsylvania  
+- 📊 Economics & Statistics graduate from McGill University  
+- 💼 Former financial advisor with 3 years of experience in banking  
+- 💻 Interested in software engineering, data-driven applications, and full-stack development  
+- 🌱 Currently improving my skills in algorithms, backend development, and applied machine learning  
 
 
 ## 💻 Languages & Tools:
