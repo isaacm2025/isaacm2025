@@ -10,6 +10,7 @@ I am currently preparing for **Software Engineering internship opportunities for
 
 ## About Me
 
+- 💻 Currently work for Apple as a technical specialist & teaching assistant for CIT5920 of the University of Pennsylvania
 - 🎓 Master's student in Computer Science at the University of Pennsylvania  
 - 📊 Economics & Statistics graduate from McGill University  
 - 💼 Former financial advisor with 3 years of experience in banking  
