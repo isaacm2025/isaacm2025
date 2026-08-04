@@ -1,22 +1,27 @@
-## Hello, I'm Isaac 👋
+# Hi, I'm Isaac 👋
 
-I am a Master's student in Computer Science at the University of Pennsylvania, with a background in Economics, Statistics, and Finance.
+### Computer Science Master's Student at the University of Pennsylvania  
+### Building full-stack, data-driven, and AI-powered applications
 
-After three years working in finance, I transitioned into software engineering because I enjoy building practical tools, solving technical problems, and continuously learning new technologies.
+I am pursuing a **Master of Applied Science in Computer Science** at the
+**University of Pennsylvania**, where I currently hold a **4.0 GPA**.
 
-I am currently working for Apple as a technical specialist & a teaching assistant for CIT5920 at the University of Pennsylvania
+Before transitioning into software engineering, I studied Economics and
+Statistics at McGill University and spent three years working in banking.
+That experience strengthened my communication, analytical thinking, and
+ability to solve problems in high-responsibility environments.
 
-I am currently preparing for **Software Engineering internship opportunities for 2027 and 2028**.
+Today, I enjoy building practical software that combines thoughtful user
+experiences with reliable backend systems.
+
+- 💻 Technical Specialist at Apple
+- 👨‍🏫 Teaching Assistant for CIT 5920 at the University of Pennsylvania
+- 🛠️ Building full-stack and AI-powered applications
+- 📚 Strengthening my skills in data structures, systems, backend development,
+  and applied machine learning
+- 🔎 Preparing for Software Engineering internship opportunities in 2027 and 2028
 
 ---
-
-## About Me
-
-- 🎓 Master's student in Computer Science at the University of Pennsylvania  
-- 📊 Economics & Statistics graduate from McGill University  
-- 💼 Former financial advisor with 3 years of experience in banking  
-- 💻 Interested in software engineering, data-driven applications, and full-stack development  
-- 🌱 Currently improving my skills in algorithms, backend development, and applied machine learning  
 
 
 ## 💻 Languages & Tools:
