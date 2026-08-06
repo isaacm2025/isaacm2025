@@ -1,8 +1,5 @@
 # Hi, I'm Isaac 👋
 
-### Computer Science Master's Student at the University of Pennsylvania  
-### Building full-stack, data-driven, and AI-powered applications
-
 I am pursuing a **Master of Applied Science in Computer Science** at the
 **University of Pennsylvania**, where I currently hold a **4.0 GPA**.
 
